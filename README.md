@@ -3,7 +3,7 @@
 
 # MARIA - **M**ínima **A**rquitetura para **R**epositórios de **I**nteligência **A**rtificial
 * Um pequeno estudo de arquitetura para projetos de Machine Learning, com o objetivo de criação de endpoints para treinamento e consumo de modelos treinados.
-* Os modelos treinados foram feitos utilizando _Scikit-Learning_ e salvos via _joblib_.
+* Os modelos treinados foram feitos utilizando _Scikit-Learn_ e salvos via _joblib_.
 * Os endpoints criados utilizam Django e Django Rest Framework.
 * Para projetos futuros, pode-se criar mais modelos para consumo e uma interface gráfica para disponibilização do mesmo.
 * Este projeto foi feito com ajuda do site [Deploy Machine Learning](https://www.deploymachinelearning.com/)
